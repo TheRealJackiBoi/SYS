@@ -15,6 +15,12 @@ Ideen er, at vi, som udbyder, sælger en software, som kan skræddersyes til kun
 ## Usecase
 https://docs.google.com/document/d/1xxmISS68Xoby0AoRGuLd3un52yQZHQYerZO2AStOcio/edit?usp=sharing 
 
+### Diagram
+todo
+
+## Domænemodel
+todo
+
 ## Eksempel
 
 En skole har købt vores GBS (Generic Booking Service).
