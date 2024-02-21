@@ -26,7 +26,7 @@ Ideen er, at vi, som udbyder, sælger en software, som kan skræddersyes til kun
 ## Eksempel
 
 En skole har købt vores GBS (Generic Booking Service).
-Skolen udnævner nogen, som skal være ansvarlige for softwaren. Dette kunne være en IT-afdeling hos kunden.
+Skolen udnævner nogle, som skal være ansvarlige for softwaren. Dette kunne være en IT-afdeling hos kunden.
 Vi som udbyder (Global Admin) udsteder den Lokale Admin-rolle til de IT-asvarlige.
 Den lokale admin kan nu sætte softwaren op som ønsket. Dette indebærer ingen programmering, men skal derimod kunne gøres brugervenligt i en GUI som er udviklet af os på forhånd.
 
