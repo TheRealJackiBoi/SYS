@@ -13,7 +13,7 @@ Ideen er, at vi, som udbyder, sælger en software, som kan skræddersyes til kun
 - Bruger / Booker
 
 ## Usecase
-https://docs.google.com/document/d/1xxmISS68Xoby0AoRGuLd3un52yQZHQYerZO2AStOcio/edit?usp=sharing 
+[UseCase Dokument](https://docs.google.com/document/d/1xxmISS68Xoby0AoRGuLd3un52yQZHQYerZO2AStOcio/edit?usp=sharing)
 
 ### Diagram
 todo
