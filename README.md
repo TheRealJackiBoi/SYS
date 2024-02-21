@@ -15,8 +15,8 @@ Ideen er, at vi, som udbyder, sælger en software, som kan skræddersyes til kun
 ## Usecase
 [UseCase Dokument](https://docs.google.com/document/d/1xxmISS68Xoby0AoRGuLd3un52yQZHQYerZO2AStOcio/edit?usp=sharing)
 
-### Diagram
-![image](https://github.com/TheRealJackiBoi/SYS/assets/113049401/635d7f6e-33af-4326-b404-2650252c3937)
+### Klassediagram
+![image](https://github.com/TheRealJackiBoi/SYS/blob/main/Class%20Diagram%20(GBS).svg)
 
 
 ## Domænemodel
