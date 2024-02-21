@@ -2,7 +2,7 @@
 
 ## Produktidé
 
-Vi har valgt at lave en "Saas," som er et bookingsystem.
+Vi har valgt at lave en "SaaS," som er et bookingsystem.
 Ideen er, at vi, som udbyder, sælger en software, som kan skræddersyes til kunden. Softwaren består oprindeligt af et generisk bookingsystem. 
 
 ## Roller
