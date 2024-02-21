@@ -15,12 +15,13 @@ Ideen er, at vi, som udbyder, sælger en software, som kan skræddersyes til kun
 ## Usecase
 [UseCase Dokument](https://docs.google.com/document/d/1xxmISS68Xoby0AoRGuLd3un52yQZHQYerZO2AStOcio/edit?usp=sharing)
 
+## Domænemodel
+![image](https://github.com/TheRealJackiBoi/SYS/blob/main/Domain%20Model.svg)
+
+
 ### Klassediagram
 ![image](https://github.com/TheRealJackiBoi/SYS/blob/main/Class%20Diagram%20(GBS).svg)
 
-
-## Domænemodel
-todo
 
 ## Eksempel
 
