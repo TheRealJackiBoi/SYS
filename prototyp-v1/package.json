@@ -1,0 +1,16 @@
+{
+  "name": "prototyp-v1",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "",
+  "main": "./src/scipt.js",
+  "scripts": {
+    "dev": "node ./src/scipt.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.15"
+  }
+}
