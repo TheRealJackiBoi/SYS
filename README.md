@@ -41,4 +41,4 @@ De lokale admins opretter nu auditorier, klasselokaler, lånecomputere i systeme
 
 ### Prototype
 
-![](./prototype-v1/prototype-v1-example.gif)
+![GIF](https://github.com/TheRealJackiBoi/SYS/blob/main/prototype-v1/prototype-v1-example.gif)
