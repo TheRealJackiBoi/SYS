@@ -39,3 +39,6 @@ Eksempel på ressourcer:
 
 De lokale admins opretter nu auditorier, klasselokaler, lånecomputere i systemet.
 
+### Prototype
+
+![](./prototype-v1/prototype-v1-example.gif)
